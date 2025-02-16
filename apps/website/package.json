@@ -1,0 +1,17 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "astro": "astro",
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/node": "^9.1.0",
+    "@repo/payload": "workspace:*",
+    "astro": "^5.3.0",
+    "payload": "3.23.0"
+  }
+}

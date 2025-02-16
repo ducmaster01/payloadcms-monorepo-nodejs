@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/eric/Documents/GitHub/astro-payload-mono/payload/payload/src/app/%28payload%29/admin/%5B%5B...segments%5D%5D/page.tsx"],"sourcesContent":["/* THIS FILE WAS GENERATED AUTOMATICALLY BY PAYLOAD. */\n/* DO NOT MODIFY IT BECAUSE IT COULD BE REWRITTEN AT ANY TIME. */\nimport type { Metadata } from 'next'\n\nimport config from '@payload-config'\nimport { RootPage, generatePageMetadata } from '@payloadcms/next/views'\nimport { importMap } from '../importMap'\n\ntype Args = {\n  params: Promise<{\n    segments: string[]\n  }>\n  searchParams: Promise<{\n    [key: string]: string | string[]\n  }>\n}\n\nexport const generateMetadata = ({ params, searchParams }: Args): Promise<Metadata> =>\n  generatePageMetadata({ config, params, searchParams })\n\nconst Page = ({ params, searchParams }: Args) =>\n  RootPage({ config, params, searchParams, importMap })\n\nexport default Page\n"],"names":[],"mappings":"AAAA,qDAAqD,GACrD,+DAA+D;;;;AAG/D;AACA;AACA;AADA;AAAA;;;;AAYO,MAAM,mBAAmB,CAAC,EAAE,MAAM,EAAE,YAAY,EAAQ,GAC7D,CAAA,GAAA,wXAAA,CAAA,uBAAoB,AAAD,EAAE;QAAE,QAAA,mIAAA,CAAA,UAAM;QAAE;QAAQ;IAAa;AAEtD,MAAM,OAAO,CAAC,EAAE,MAAM,EAAE,YAAY,EAAQ,GAC1C,CAAA,GAAA,yYAAA,CAAA,WAAQ,AAAD,EAAE;QAAE,QAAA,mIAAA,CAAA,UAAM;QAAE;QAAQ;QAAc,WAAA,0JAAA,CAAA,YAAS;IAAC;uCAEtC"}},
+    {"offset": {"line": 31, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

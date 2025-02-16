@@ -1,0 +1,27 @@
+{
+  "node": {
+    "60bbdfe329015dbba534b550140f769ef714290c12": {
+      "workers": {
+        "app/(payload)/admin/[[...segments]]/page": {
+          "moduleId": "[project]/payload/.next-internal/server/app/(payload)/admin/[[...segments]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/payload/src/app/(payload)/layout.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@payloadcms+next@3.23.0_@types+react@19.0.1_graphql@16.10.0_monaco-editor@0.52.2_next@15.1.0__vck5jirapz5jx7o2qkcvdihja4/node_modules/@payloadcms/next/dist/layouts/Root/index.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(payload)/admin/[[...segments]]/page": "rsc"
+      }
+    },
+    "406ce44a8b8b1cc0d9b3580c4e1d66d029cf149e17": {
+      "workers": {
+        "app/(payload)/admin/[[...segments]]/page": {
+          "moduleId": "[project]/payload/.next-internal/server/app/(payload)/admin/[[...segments]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/payload/src/app/(payload)/layout.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/@payloadcms+next@3.23.0_@types+react@19.0.1_graphql@16.10.0_monaco-editor@0.52.2_next@15.1.0__vck5jirapz5jx7o2qkcvdihja4/node_modules/@payloadcms/next/dist/layouts/Root/index.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(payload)/admin/[[...segments]]/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/eric/Documents/GitHub/astro-payload-mono/payload/node_modules/.pnpm/%40payloadcms%2Bui%403.23.0_%40types%2Breact%4019.0.1_monaco-editor%400.52.2_next%4015.1.0_react-dom%4019.0.0_r_2tercydr2dzrf5ho5p5d3sfnxm/node_modules/%40payloadcms/ui/dist/exports/client/DatePicker-THCU4KZJ.js"],"sourcesContent":["\"use client\";\n// Workaround for react-datepicker and other cjs dependencies potentially inserting require(\"react\") statements\nimport * as requireReact from 'react';\nimport * as requireReactDom from 'react-dom';\n\nfunction require(m) {\n if (m === 'react') return requireReact;\n if (m === 'react-dom') return requireReactDom;\n throw new Error(`Unknown module ${m}`);\n}\n// Workaround end\n\nimport{n as a}from\"./chunk-EG3ZOHFS.js\";import\"./chunk-5LKBKI4T.js\";export{a as default};\n//# sourceMappingURL=DatePicker-THCU4KZJ.js.map\n"],"names":[],"mappings":";AAGA;AAFA,+GAA+G;AAC/G;AAFA;;;AAKA,SAAS,QAAQ,CAAC;IACjB,IAAI,MAAM,SAAS,OAAO;IAC1B,IAAI,MAAM,aAAa,OAAO;IAC9B,MAAM,IAAI,MAAM,CAAC,eAAe,EAAE,GAAG;AACtC;;;;CAIA,+CAA+C","ignoreList":[0]}},
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

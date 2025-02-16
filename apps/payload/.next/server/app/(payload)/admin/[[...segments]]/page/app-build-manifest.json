@@ -1,0 +1,38 @@
+{
+  "pages": {
+    "/(payload)/admin/[[...segments]]/page": [
+      "static/chunks/5ba7f_next_dist_34bb0f._.js",
+      "static/chunks/5ba7f_next_dist_client_components_not-found-error_b51cf7.js",
+      "static/chunks/[project]__4c0d2c._.css",
+      "static/chunks/5ba7f_next_4f4c1e._.js",
+      "static/chunks/34cc5_@dnd-kit_core_dist_core_esm_3e697b.js",
+      "static/chunks/30d1f_@payloadcms_ui_dist_exports_client_chunk-EG3ZOHFS_6c1682.js",
+      "static/chunks/30d1f_@payloadcms_ui_dist_exports_client_index_5db3f0.js",
+      "static/chunks/30d1f_@payloadcms_ui_dist_exports_client_7a47e7._.js",
+      "static/chunks/30d1f_@payloadcms_ui_dist_exports_shared_index_3f34ff.js",
+      "static/chunks/30d1f_@payloadcms_ui_dist_4679b1._.js",
+      "static/chunks/8505c_date-fns_a20b30._.js",
+      "static/chunks/d9507_@floating-ui_react_dist_4bebb9._.js",
+      "static/chunks/dfb9e_ajv_dist_b88260._.js",
+      "static/chunks/11e34_@payloadcms_next_dist_2c9f36._.js",
+      "static/chunks/08b5e__pnpm_41767c._.js",
+      "static/chunks/src_app_(payload)_layout_tsx_5f0353._.js",
+      "static/chunks/08b5e__pnpm_c3bd6b._.js",
+      "static/chunks/src_app_(payload)_layout_tsx_b51cf7._.js",
+      "static/chunks/08b5e__pnpm_e885e5._.js",
+      "static/chunks/src_app_(payload)_admin_[[___segments]]_not-found_tsx_0b032e._.js",
+      "static/chunks/src_app_(payload)_admin_[[___segments]]_not-found_tsx_b9559a._.js",
+      "static/chunks/08b5e__pnpm_e885e5._.js",
+      "static/chunks/src_app_(payload)_admin_[[___segments]]_page_tsx_fa7bf4._.js",
+      "static/chunks/src_app_(payload)_admin_[[___segments]]_page_tsx_b9559a._.js",
+      "static/chunks/5ba7f_next_dist_compiled_react-dom_6f91cd._.js",
+      "static/chunks/5ba7f_next_dist_compiled_0c8fc5._.js",
+      "static/chunks/5ba7f_next_dist_client_2ced10._.js",
+      "static/chunks/5ba7f_next_dist_9cb68a._.js",
+      "static/chunks/eae63_@swc_helpers_cjs_e27e0a._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_895e4e._.js",
+      "static/chunks/[project]_payload_e69f0d._.js",
+      "static/chunks/[project]_payload_3fd108._.js"
+    ]
+  }
+}
