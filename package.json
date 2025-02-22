@@ -10,5 +10,11 @@
     "dev:payload": "cd apps/payload && pnpm dev",
     "dev:website": "cd apps/website && pnpm dev",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp"
+    ]
+  },
+  "packageManager": "pnpm@10.0.0"
 }

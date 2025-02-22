@@ -1,3 +1,0 @@
-{
-  "/(payload)/api/graphql/route": "app/(payload)/api/graphql/route.js"
-}
